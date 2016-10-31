@@ -1,3 +1,7 @@
+#new-ticket-form, #question, #queued {
+  margin-top: 40px;
+}
+
 .ember-view {
   margin-top: -10px;
 }
