@@ -10,6 +10,8 @@ Router.map(function() {
   this.route('pair');
   this.route('fifteen');
   this.route('enter');
+  this.route('help');
+  this.route('closed');
 });
 
 export default Router;
