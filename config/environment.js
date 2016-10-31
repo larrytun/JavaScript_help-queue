@@ -17,7 +17,7 @@ module.exports = function(environment) {
       apiKey: "AIzaSyBehtmzM4qTmEMp1hy92wSqF80YwRIPXfE",
       authDomain: "help-queue-e08e3.firebaseapp.com",
       databaseURL: "https://help-queue-e08e3.firebaseio.com",
-      storageBucket: "",
+      storageBucket: "help-queue-e08e3.appspot.com",
     },
 
     APP: {

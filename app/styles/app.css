@@ -1,3 +1,33 @@
+.ember-view {
+  margin-top: -10px;
+}
+
+.student-name {
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+.ticket-location {
+  min-width: 3em;
+  max-width: 10vw;
+  padding-left: 10px;
+}
+
+.list-group-item {
+  border-radius: 0 !important;
+  font-size: 8vh;
+  display: flex;
+  align-items: center;
+  min-height: 15vh;
+}
+
+.time-ago {
+  font-size: 6vh;
+  min-width: 4em;
+  max-width: 15vw;
+}
+
 body {
   background-color: #ecf0f1;
   font-family: sans-serif;
@@ -9,11 +39,27 @@ h2 {
   text-align: center;
 }
 
+h1 {
+  font-family: 'Nixie One', cursive;
+  color: white;
+  text-align: center;
+}
+
+h4 {
+  color: #424242;
+  text-align: center;
+}
+
 p {
   font-size: 21px;
   font-weight: lighter;
   text-align: center;
   margin-top: 16px;
+}
+
+ul {
+  list-style: none;
+  padding: 0;
 }
 
 .well {
@@ -34,4 +80,9 @@ a {
 a:hover {
   color: white;
   text-decoration: none;
+}
+
+#two {
+  background-color: white;
+  margin: 30px;
 }

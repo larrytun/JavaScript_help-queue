@@ -12,6 +12,7 @@ Router.map(function() {
   this.route('enter');
   this.route('help');
   this.route('closed');
+  this.route('admin');
 });
 
 export default Router;
