@@ -13,6 +13,8 @@ Router.map(function() {
   this.route('help');
   this.route('closed');
   this.route('admin');
+  this.route('display');
+  this.route('details');
 });
 
 export default Router;

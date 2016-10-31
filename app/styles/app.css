@@ -82,6 +82,16 @@ a:hover {
   text-decoration: none;
 }
 
+.bigLink {
+  color:inherit;
+  text-decoration: none;
+}
+
+.bigLink:hover {
+  text-decoration: none;
+  color: inherit;
+}
+
 #two {
   background-color: white;
   margin: 30px;
