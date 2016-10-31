@@ -1,0 +1,37 @@
+body {
+  background-color: #ecf0f1;
+  font-family: sans-serif;
+}
+
+h2 {
+  font-family: 'Nixie One', cursive;
+  color: white;
+  text-align: center;
+}
+
+p {
+  font-size: 21px;
+  font-weight: lighter;
+  text-align: center;
+  margin-top: 16px;
+}
+
+.well {
+  background-color: #f05a26;
+  padding: 0;
+  margin-top: -12px;
+}
+
+.btn {
+  background-color: #f05a26;
+  margin-top: 10px;
+}
+
+a {
+  color: white;
+}
+
+a:hover {
+  color: white;
+  text-decoration: none;
+}
